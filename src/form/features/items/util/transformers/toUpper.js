@@ -1,0 +1,1 @@
+export const transformToUpper = v => !v ? '' : v.toUpperCase();
